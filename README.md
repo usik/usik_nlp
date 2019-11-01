@@ -1,7 +1,6 @@
 # Usik NLP Research
 
 현 레포는 연구에 필요한 기본적인 프레임워크를 제공합니다.
-[Usik NLP Research](https://sleekdev.tistory.com).
 
 ---
 
