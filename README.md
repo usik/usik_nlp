@@ -1,14 +1,14 @@
 # Tmax NLP Research
 
 현 레포는 연구에 필요한 기본적인 프레임워크를 제공합니다.
-[Tmax NLP Research](https://tmaxai.github.io/about/).
+[Usik NLP Research](github.com/usik)
 
 ---
 
 레포 히스토리 제외하고 다운받는것을 권장합니다.
 
 ```
-git clone http://192.1.1.230/aiet/nlp/Dialogue-System.git --depth=1
+git clone 주소 --depth=1
 ```
 
 ---
