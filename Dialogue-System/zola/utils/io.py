@@ -360,7 +360,7 @@ def create_directory(directory_path: Text) -> None:
 
 
 def zip_folder(folder: Text) -> Text:
-    """Create an archive from a folder."""
+    """파일 압축하기."""
     import tempfile
     import shutil
 
