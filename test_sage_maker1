@@ -2,3 +2,4 @@ Testing sagemaker 1
 Testing sagemaker 4
 Testing:
 - Added git repository to sagemaker accout via CLI
+- trying credential helper
