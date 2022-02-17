@@ -1,3 +1,4 @@
 Testing sagemaker 1
 Testing sagemaker 4
-Testing usehttp
+Testing:
+- Added git repository to sagemaker accout via CLI
