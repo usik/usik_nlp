@@ -4,3 +4,4 @@ Testing:
 - Added git repository to sagemaker accout via CLI
 - trying credential helper
 - does it ask for credentials now?
+- final test
